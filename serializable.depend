@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1377598902 source:h:\code\c++\libraries\serializable\serializable\parser.cpp
+	"..\..\macros\macros.h"
+	"parser.h"
+	<exception>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<string>
+	<list>
+
+1377512228 h:\code\c++\libraries\macros\macros.h
+
+1377598826 h:\code\c++\libraries\serializable\serializable\parser.h
+	<exception>
+	<cstring>
+	<list>
+	<string>
+
+1377599008 source:h:\code\c++\libraries\serializable\serializable\main.cpp
+	<iostream>
+	"parser.h"
+	"..\..\macros\macros.h"
+
+1373625182 source:m:\code\c++\libraries\serializable\serializable\parser.cpp
+	"..\..\macros\macros.h"
+	"parser.h"
+	<exception>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<string>
+	<list>
+
+1377512228 m:\code\c++\libraries\macros\macros.h
+
+1373624640 m:\code\c++\libraries\serializable\serializable\parser.h
+	<exception>
+	<cstring>
+	<list>
+	<string>
+
+1373625172 source:m:\code\c++\libraries\serializable\serializable\main.cpp
+	<iostream>
+	"parser.h"
+	"serializable.h"
+	"..\..\macros\macros.h"
+
+1373618100 m:\code\c++\libraries\serializable\serializable\serializable.h
+	"parser.h"
+
+1377167746 source:e:\code\c++\libraries\serializable\serializable\parser.cpp
+	"..\..\macros\macros.h"
+	"parser.h"
+	<exception>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<string>
+	<list>
+
+1377512228 e:\code\c++\libraries\macros\macros.h
+
+1377165808 e:\code\c++\libraries\serializable\serializable\parser.h
+	<exception>
+	<cstring>
+	<list>
+	<string>
+
+1377167478 source:e:\code\c++\libraries\serializable\serializable\main.cpp
+	<iostream>
+	"parser.h"
+	"serializable.h"
+	"..\..\macros\macros.h"
+
+1377158866 e:\code\c++\libraries\serializable\serializable\serializable.h
+	"parser.h"
+
